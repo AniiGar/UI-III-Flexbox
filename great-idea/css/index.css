@@ -245,7 +245,7 @@ hr {
 }
 
 .allServices {
-	height: 180px;
+	height: 100%;
 	width: 100%;
 	border: 1px solid black;
 	padding: 15px;
@@ -283,3 +283,12 @@ hr {
 	width: 100%;
 	justify-self: stretch;
 }
+
+ul {
+	margin: 20px 20px;
+}
+
+li {
+	list-style-type: square;
+	padding: 5px;
+  }
